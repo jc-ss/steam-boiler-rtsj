@@ -23,7 +23,7 @@ Projeto desenvolvido para a disciplina de Sistemas de Tempo Real da Universidade
 - Uso de threads periódicas com prioridades diferentes
 
 ## 🏗️ Arquitetura do Sistema
-
+git push --force
 ### Componentes Físicos
 
 - **Caldeira**: Capacidade de 1000 litros
@@ -203,10 +203,6 @@ Desenvolvido como trabalho acadêmico para a disciplina de Sistemas de Tempo Rea
 ## 📝 Licença
 
 Este projeto é de caráter acadêmico e está disponível para fins educacionais.
-
-## 🤝 Contribuições
-
-Como este é um projeto acadêmico, contribuições não são aceitas. No entanto, sinta-se livre para fazer fork e adaptar para seus próprios estudos.
 
 ---
 
